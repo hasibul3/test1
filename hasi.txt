@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A094-8B62
+
+ Directory of C:\Users\003AE0744\Desktop\Gittest
+
+28-11-2023  22:40    <DIR>          .
+28-11-2023  22:31    <DIR>          ..
+28-11-2023  22:40                 0 hasi.txt
+28-11-2023  22:34               394 index.html
+28-11-2023  22:34                22 text1.txt
+               3 File(s)            416 bytes
+               2 Dir(s)   7,808,241,664 bytes free
